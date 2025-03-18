@@ -1,7 +1,7 @@
 # Holi Festival 2025 Website
 Welcome to the Holi Festival 2025 website repository! This project is an immersive and interactive web experience designed to celebrate the festival of colors. The website highlights the history, events, gallery, and countdown to the festival, offering users an engaging and vibrant platform.
 
-### Weblink: [Live Website](https://formanhairlife.com/Holi/)
+### Weblink: [Live Website](https://holi-special-nldy.vercel.app/)
 ## 📸 Screenshots:
 <img width="450px;" src="https://github.com/panchapal/Holi-Special/blob/main/img/12.png"/>
 <img width="450px;" src="https://github.com/panchapal/Holi-Special/blob/main/img/13.png"/>
